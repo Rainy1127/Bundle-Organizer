@@ -1,0 +1,50 @@
+{
+  "key.category.bundleorganizer.main": "Bundle Organizer",
+  "key.bundleorganizer.sort": "Сортировать мешок (Shift: сменить режим)",
+  "key.bundleorganizer.filter": "Переключить фильтр категорий (Shift: сбросить)",
+
+  "category.bundleorganizer.blocks": "Блоки",
+  "category.bundleorganizer.resources": "Ресурсы",
+  "category.bundleorganizer.tools": "Инструменты",
+  "category.bundleorganizer.weapons": "Оружие",
+  "category.bundleorganizer.armor": "Броня",
+  "category.bundleorganizer.food": "Еда",
+  "category.bundleorganizer.potions": "Зелья",
+  "category.bundleorganizer.misc": "Прочее",
+
+  "sortmode.bundleorganizer.category": "по категории",
+  "sortmode.bundleorganizer.name": "по названию",
+  "sortmode.bundleorganizer.count": "по количеству",
+
+  "gui.bundleorganizer.empty": "Пусто",
+  "gui.bundleorganizer.used": "Занято: %s/%s",
+  "gui.bundleorganizer.free": "Свободно: %s",
+  "gui.bundleorganizer.sort": "Сортировка %s [%s]",
+  "gui.bundleorganizer.sort_unavailable": "Сортировка здесь недоступна",
+  "gui.bundleorganizer.filter": "Фильтр: %s [%s]",
+  "gui.bundleorganizer.filter_all": "Все",
+  "gui.bundleorganizer.more": "ещё %s",
+  "gui.bundleorganizer.first_out": "> достаётся первым",
+
+  "tooltip.bundleorganizer.free": "Свободно: %s из %s",
+
+  "message.bundleorganizer.sorted": "Мешок отсортирован %s",
+  "message.bundleorganizer.sort_mode": "Режим сортировки: %s",
+  "message.bundleorganizer.filter": "Фильтр категорий: %s",
+  "message.bundleorganizer.no_server": "На сервере нет Bundle Organizer: сортировка недоступна",
+  "message.bundleorganizer.creative": "В творческом инвентаре сортировка не работает",
+  "message.bundleorganizer.sorting_disabled": "Сортировка мешков отключена на этом сервере",
+
+  "bundleorganizer.configuration.title": "Bundle Organizer",
+  "bundleorganizer.configuration.section.bundleorganizer.client.toml": "Настройки клиента",
+  "bundleorganizer.configuration.section.bundleorganizer.client.toml.title": "Bundle Organizer: настройки клиента",
+  "bundleorganizer.configuration.section.bundleorganizer.server.toml": "Настройки сервера",
+  "bundleorganizer.configuration.section.bundleorganizer.server.toml.title": "Bundle Organizer: настройки сервера",
+  "bundleorganizer.configuration.showPanel": "Показывать боковую панель",
+  "bundleorganizer.configuration.panelSide": "Сторона панели",
+  "bundleorganizer.configuration.panelMaxRows": "Максимум строк с предметами в панели",
+  "bundleorganizer.configuration.slotIndicator": "Число свободного места на иконке",
+  "bundleorganizer.configuration.tooltipLine": "Строка о свободном месте в подсказке",
+  "bundleorganizer.configuration.sortMode": "Режим сортировки",
+  "bundleorganizer.configuration.allowSorting": "Разрешить сортировку"
+}

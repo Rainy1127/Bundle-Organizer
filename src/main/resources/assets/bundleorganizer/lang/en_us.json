@@ -1,0 +1,50 @@
+{
+  "key.category.bundleorganizer.main": "Bundle Organizer",
+  "key.bundleorganizer.sort": "Sort bundle (Shift: change sort mode)",
+  "key.bundleorganizer.filter": "Cycle category filter (Shift: clear)",
+
+  "category.bundleorganizer.blocks": "Blocks",
+  "category.bundleorganizer.resources": "Resources",
+  "category.bundleorganizer.tools": "Tools",
+  "category.bundleorganizer.weapons": "Weapons",
+  "category.bundleorganizer.armor": "Armor",
+  "category.bundleorganizer.food": "Food",
+  "category.bundleorganizer.potions": "Potions",
+  "category.bundleorganizer.misc": "Other",
+
+  "sortmode.bundleorganizer.category": "by category",
+  "sortmode.bundleorganizer.name": "by name",
+  "sortmode.bundleorganizer.count": "by amount",
+
+  "gui.bundleorganizer.empty": "Empty",
+  "gui.bundleorganizer.used": "Used: %s/%s",
+  "gui.bundleorganizer.free": "Free: %s",
+  "gui.bundleorganizer.sort": "Sort %s [%s]",
+  "gui.bundleorganizer.sort_unavailable": "Sorting unavailable here",
+  "gui.bundleorganizer.filter": "Filter: %s [%s]",
+  "gui.bundleorganizer.filter_all": "All",
+  "gui.bundleorganizer.more": "+%s more",
+  "gui.bundleorganizer.first_out": "> comes out first",
+
+  "tooltip.bundleorganizer.free": "Free: %s of %s",
+
+  "message.bundleorganizer.sorted": "Bundle sorted %s",
+  "message.bundleorganizer.sort_mode": "Sort mode: %s",
+  "message.bundleorganizer.filter": "Category filter: %s",
+  "message.bundleorganizer.no_server": "The server does not have Bundle Organizer: sorting is unavailable",
+  "message.bundleorganizer.creative": "Sorting does not work in the creative inventory",
+  "message.bundleorganizer.sorting_disabled": "Bundle sorting is disabled on this server",
+
+  "bundleorganizer.configuration.title": "Bundle Organizer",
+  "bundleorganizer.configuration.section.bundleorganizer.client.toml": "Client settings",
+  "bundleorganizer.configuration.section.bundleorganizer.client.toml.title": "Bundle Organizer: client settings",
+  "bundleorganizer.configuration.section.bundleorganizer.server.toml": "Server settings",
+  "bundleorganizer.configuration.section.bundleorganizer.server.toml.title": "Bundle Organizer: server settings",
+  "bundleorganizer.configuration.showPanel": "Show side panel",
+  "bundleorganizer.configuration.panelSide": "Panel side",
+  "bundleorganizer.configuration.panelMaxRows": "Maximum item rows in panel",
+  "bundleorganizer.configuration.slotIndicator": "Free space number on icon",
+  "bundleorganizer.configuration.tooltipLine": "Free space line in tooltip",
+  "bundleorganizer.configuration.sortMode": "Sort mode",
+  "bundleorganizer.configuration.allowSorting": "Allow sorting"
+}
