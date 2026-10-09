@@ -12,6 +12,7 @@ Shows how much free space is left on the bundle icon and in a side panel, groups
 lets you filter by category and sort the contents with one key press.
 Install on the client for the indicator and filter. Install on the server as well to enable sorting.
 '''
+logoFile = "ico.png"
 
 [[dependencies.${mod_id}]] #optional
     # the modid of the dependency
